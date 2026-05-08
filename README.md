@@ -235,6 +235,9 @@ It highlights how raw movie data can be transformed into valuable insights and i
 # Author
 
 ## Ganna Amr Emad Eldin
+##  Supervision
+>- **Dr.** Mahmoud El Sabbagh  
+>- **Eng.** Mohamed Amin  
 
 Faculty of Artificial Intelligence
 

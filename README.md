@@ -1,5 +1,9 @@
 # IMDb Top 1000 Movies — Exploratory Data Analysis & Recommendation System
+<p align="center">
+  <img src="cover.png" width="850"/>
+</p>
 
+---
 <p align="center">
   <img src="asset/imdb_analysis.png" width="850"/>
 </p>

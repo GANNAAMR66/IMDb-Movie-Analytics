@@ -16,7 +16,7 @@ st.markdown("---")
 @st.cache_data
 def load_data():
     # IMPORTANT: Replace the URL below with your actual raw GitHub CSV link!
-    url = "https://raw.githubusercontent.com/GANNAAMR66/IMDb-Movie-Analytics/main/imdb_top_1000.csv"
+    url = "https://github.com/GANNAAMR66/IMDb-Movie-Analytics/blob/main/datasets/imdb_clean6.csv"
     try:
         return pd.read_csv(url)
     except Exception as e:
